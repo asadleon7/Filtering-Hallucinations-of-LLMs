@@ -1,6 +1,5 @@
 
 
-```markdown
 # Filtering Hallucinations and Omissions in LLMs Through a Cognitive Architecture
 
 This project aims to filter hallucinations and omissions in Large Language Models (LLMs) using a cognitive architecture. The system integrates ANNABELL, YARP, inotify tools, and LLMs like GPT and Gemini, and is designed to run on Linux.
